@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "NLP Assignments"
+  navbar:
+    left:
+      - text: "Home"
+        href: index.html
+      - text: "Assignment 1"
+        href: assignment_1/assignment_1_baiocchi_dibuo_petrilli.html
+      - text: "Assignment 2"
+        href: assignment_2/assignment_2_baiocchi_dibuo_petrilli.html
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 2
+
+exclude:
+  - nlp-course-material/ 
+  - "*.ipynb"            
+
+
+ 

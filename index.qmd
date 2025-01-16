@@ -1,0 +1,15 @@
+---
+title: "NLP Assignments"
+format:
+  html:
+    toc: false
+---
+
+# Welcome
+
+This site showcases the reports of my assignments on sexism detection, developed for the NLP course. You will find:
+
+- **[Assignment 1](assignment_1/assignment_1_baiocchi_dibuo_petrilli.html)**: A comparative analysis between LSTM and Transformer models.
+- **[Assignment 2](assignment_2/assignment_2_baiocchi_dibuo_petrilli.html)**: An exploration of Prompting techniques with Large Language Models (LLMs).
+
+Feel free to explore the links for more details!
